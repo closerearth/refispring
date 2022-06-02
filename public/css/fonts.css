@@ -1,0 +1,4 @@
+@import '../fonts/Switzer/Switzer.css';
+body, input, textarea {
+  font-family: "Switzer", sans-serif;
+}

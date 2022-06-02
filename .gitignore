@@ -1,0 +1,12 @@
+logs/*
+tmp/*
+images/*
+.DS_Store
+.idea
+.local
+.sass-cache
+npm-debug.log
+build
+build/*
+node_modules
+node_modules/*
